@@ -1,0 +1,45 @@
+#content {
+    margin-left: 5px;
+}
+
+#mapCanvas img {
+    max-width: none;
+}
+
+
+
+
+.accordion-heading .accordion-toggle-small {
+    display: block;
+    padding: 4px 8px; /*8px 15px;*/
+}
+
+.accordion-inner-small {
+    padding: 4px 8px;  /*9px 15px;*/
+    border-top: 1px solid #e5e5e5;
+}
+
+.no-sidebar {
+    margin-left:0 !important;
+}
+
+#sidebar {
+    xbackground: white;
+    position: fixed;
+    top: 10px;
+    left: -180px;
+    width: 200px;
+}
+
+#sidebar-content {
+    width: 80%;
+    float: left;
+    background-color: white;
+}
+
+#toggleSidebar {
+    float: right;
+    height: 100%;
+    width: 20px;
+    margin-top: 41px;
+}

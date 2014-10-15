@@ -1,0 +1,7 @@
+start
+kill
+reboot
+telnet_start
+telnet_kill
+force_kill
+soft_kill
